@@ -1,5 +1,6 @@
 #include <iostream>
 #include <fstream>
+#include "input.h"
 #include "proses.h"
 
 int main(){
