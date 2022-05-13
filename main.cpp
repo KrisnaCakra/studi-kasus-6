@@ -2,6 +2,7 @@
 #include <fstream>
 #include "input.h"
 #include "proses.h"
+#include "output.h"
 
 int main(){
   Nilai run;

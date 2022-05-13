@@ -1,0 +1,25 @@
+KELOMPOK STORMI
+Krisna Cakra Ningrat (2100018449)
+Anela Indra (2100018454)
+Sasqia Aulia Nur Aini (2100018456)
+
+
+===================================
+    Hasil Penilaian Mahasiswa      
+===================================
+
+Nama Dosen : krisna
+Mata Kuliah : ddp
+Nilai : 90
+
+Nama Dosen : sasqia
+Mata Kuliah : dsk
+Nilai : 85
+
+Nama Dosen : anela
+Mata Kuliah : alpro
+Nilai : 95
+
+Nilai Minimal : 85
+Nilai Maximal : 95
+Nilai Rata-rata = 90
